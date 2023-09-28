@@ -1,3 +1,4 @@
 # Dommo.github.io
 My website. Just testin' stuff out for the time being.
-# poopy
+# How to compile
+You can compile a website? That's news.
